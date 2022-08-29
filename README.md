@@ -9,6 +9,8 @@
 https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mbarbosa.12/)
 [![Github](
 https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mayalisson12)
+[![Instagram](
+https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mayalisson@gmail.com)
 
 
 ![Mayalisson´s GitHub stats](https://github-readme-stats.vercel.app/api?username=mayalisson12&show_icons=true&theme=synthwave)
